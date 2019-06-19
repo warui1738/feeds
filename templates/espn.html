@@ -1,0 +1,17 @@
+{% extends "main.html"  %}
+{% load static %} 
+
+{% block content %} 
+   {% for d,value in title %}
+    <ul>
+        <li class="text-primary">{{ d }}</li>
+        {% for e in value %}
+            <li>{{ e }}</li>
+            
+        {% endfor %}
+             
+    </ul>
+    {% endfor %}
+
+{% endblock content%}
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+{% load static %}
+{% block content %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">
+    <script src="{% static "js/bootstrap.min.js" %}"></script>
+    <title>Global Rss Render</title>
+</head>
+<body>
+    <header><h1  class="text-center  border border-success text-success">John Warui Kihato</h1></header>
+
+    <section>
+        <nav>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm">
+                        <a href="#News">News</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">Sports</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="#Torrents">Tv</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">Movies</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">Kenyan  News</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">BBC  NEWS </a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">Washington Post</a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="http://">American Sport</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </section>
+
+<!-- 
+    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    <section id="slides" >
+        <img class="mySlides" src="icons/bbc.png">
+        <img class="mySlides" src="icons/al-jazeera.png">
+        <img class="mySlides" src="icons/dw.png">
+        <img class="mySlides" src="icons/reuters.png">
+        <img class="mySlides" src="icons/washington.png">
+        <img class="mySlides" src="icons/reuters.png">s
+    </section> -->
+
+    <!-- ------------------------------------------------------------------------ -->
+    <section  id="News" style="background-image: url(/image_back/nw.jpg)" >
+        <h1 class="text-center">News</h1>
+        <div class="container">
+            <div class="row">
+                <div  class="col-sm" id="bbc_worldnews">
+                    <a href="{%  url 'bbc' %}"><img src="{% static "icons/bbc.png" %}" srcset="" width="100"></a>
+                </div> 
+                <div  class="col-sm" id="Washington_post">
+                        <a href="{%  url 'washington-post' %}"><img src="{% static "icons/washington.png" %}" srcset="" width="250"></a>
+                    </div>
+                <div  class="col-sm" id="reuters">
+                    <a href="{%  url 'reuters' %}"><img src="{% static "icons/reuters.png" %}" srcset="" width="300"></a>
+                </div>
+                <div  class="col-sm" id="al-jazeera">
+                    <a href="{%  url 'aljazeera' %}"><img src="{% static "icons/al-jazeera.png" %}" srcset="" width="100"></a>
+                </div>
+                <div  class="col-sm" id="cnn">
+                    <a href="{%  url 'cnn' %}"><img src="{% static "icons/cnn.png" %}" srcset="" width="100"></a>
+                </div>
+                <div  class="col-sm" id="dw-news">
+                    <a href="{%  url 'dw' %}"><img src="{% static "icons/dw.png" %}" srcset="" width="150"></a>
+                </div>
+            </div>
+                    
+        </div>        
+    </section>
+    <!-- ------------------------------------------------------------------------ -->
+    <section  id="Sport" style="background-image: url(/image_back/sports.jpg)">
+            <h1 class="text-center">Sports</h1>
+            <div class="container">
+                <div class="row">
+                    <div  class="col-sm" id="espn">
+                        <a href="{%  url 'espn' %}"><img src="{% static "icons/sports/espn.png" %}" srcset="" width="100"></a>
+                    </div> 
+                    <div  class="col-sm" id="101t">
+                            <a href="{%  url 'great-goals' %}"><img src="{% static "icons/sports/101.jpeg" %}" srcset="" width="200" height="100"></a>
+                        </div>
+                    <div  class="col-sm" id="goal">
+                        <a href="http://"><img src="{% static "icons/sports/goal.jpg" %}" srcset="" width="200" height="100"></a>
+                    </div>
+                    <div  class="col-sm" id="soccer_news">
+                        <a href="http://"><img src="{% static "icons/sports/soccer_news.jpg" %}" srcset="" width="100"></a>
+                    </div>
+                    <div  class="col-sm" id="fox_sports">
+                        <a href="http://"><img src="{% static "icons/sports/fox_sports.png" %}" srcset="" width="100"></a>
+                    </div>
+                    <div  class="col-sm" id="sporting_news">
+                        <a href="http://"><img src="{% static "icons/sports/sporting_news.jpg" %}" srcset="" width="150" height="100"></a>
+                    </div>
+                    <div  class="col-sm" id="sky-sports">
+                        <a href="{%  url 'sky-sports' %}"><img src="{% static "icons/sports/sky-sports.jpg" %}" srcset="" width="150" ></a>
+                    </div>
+                    <div  class="col-sm" id="reddit">
+                        <a href="http://"><img src="{% static "icons/sports/reddit.jpg" %}" srcset="" width="150" height="100"></a>
+                    </div>
+                </div>
+                        
+            </div>        
+        </section>
+            <!-- ------------------------------------------------------------------------ -->
+        <section  id="Kenyan_news" style="background-image: url("{% static '/image_back/kenya.jpg' %}")>
+                <h1 class="text-center">Kenyan News</h1>
+                <div class="container">
+                    <div class="row">
+                        <div  class="col-sm" id="ktn">
+                            <a href="http://"><img src="{% static "icons/kenya/ktn.png" %}" srcset="" width="100"></a>
+                        </div> 
+                        <div  class="col-sm" id="sde">
+                                <a href="http://"><img src="{% static "icons/kenya/sde.png" %}" srcset="" width="250" height="100"></a>
+                            </div>
+                        <div  class="col-sm" id="eve">
+                            <a href="http://"><img src="{% static "icons/kenya/eve.png" %}" srcset="" width="200" height="100"></a>
+                        </div>
+                        <div  class="col-sm" id="politics">
+                            <a href="http://"><img src="{% static "icons/kenya/politics.jpg" %}" srcset="" width="200"></a>
+                        </div>
+                        <div  class="col-sm" id="jobs">
+                            <a href="http://"><img src="{% static "icons/kenya/jobs.png" %}" srcset="" width="100"></a>
+                        </div>
+                        <div  class="col-sm" id="business">
+                            <a href="http://"><img src="{% static "icons/kenya/business.jpg" %}" srcset="" width="150"></a>
+                        </div>
+                    </div>
+                            
+                </div>        
+            </section>
+                <!-- ------------------------------------------------------------------------ -->
+            <section  id="Torrents" style="background-image: url(/feeds/medianews/kenya.jpg)">
+                    <h1 class="text-center">Torrents</h1>
+                    <div class="container">
+                        <div class="row">
+                            <div  class="col-sm" id="tv-line">
+                                <a href="http://"><img src="{% static "icons/torrents/tv-line.jpg" %}" srcset="" width="100"></a>
+                            </div> 
+                            <div  class="col-sm" id="buddytv">
+                                <a href="http://"><img src="{% static "icons/torrents/buddytv.jpg" %}" srcset="" width="250" height="100"></a>
+                                </div>
+                            <div  class="col-sm" id="tv-by-numbers">
+                                <a href="http://"><img src="{% static "icons/torrents/tv-by-numbers.jpg" %}" srcset="" width="300" height="100"></a>
+                            </div>
+                            <div  class="col-sm" id="al-jazeera">
+                                <a href="http://"><img src="{% static "icons/torrents/reality-blurred.jpg" %}" srcset="" width="100"></a>
+                            </div>
+                            <div  class="col-sm" id="cnn">
+                                <a href="http://"><img src="{% static "icons/torrents/realitytvworld.jpg" %}" srcset="" width="150"></a>
+                            </div>
+                            <div  class="col-sm" id="dw-news">
+                                <a href="http://"><img src="{% static "icons/dw.png" %}" srcset="" width="150"></a>
+                            </div>
+                        </div>
+                                
+                    </div>        
+                </section>
+        {% endblock content %}
+</body>
+</html>

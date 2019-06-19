@@ -1,0 +1,57 @@
+﻿Top Headlines: http://www.espn.com/espn/rss/news
+
+NFL Headlines: http://www.espn.com/espn/rss/nfl/news
+
+NBA Headlines: http://www.espn.com/espn/rss/nba/news
+
+MLB Headlines: http://www.espn.com/espn/rss/mlb/news
+
+NHL Headlines: http://www.espn.com/espn/rss/nhl/news
+
+Motorsports Headlines: http://www.espn.com/espn/rss/rpm/news
+
+Soccer Headlines: http://soccernet.espn.com/rss/news
+
+ESPNU: http://www.espn.com/espn/rss/espnu/news
+
+College Basketball Headlines: http://www.espn.com/espn/rss/ncb/news
+
+College Football Headlines: http://www.espn.com/espn/rss/ncf/news
+
+Action Sports Headlines: http://www.espn.com/espn/rss/action/news
+
+Poker News: http://www.espn.com/espn/rss/poker/master
+
+ESPN Latest Videos: http://www.espn.com/broadband/ivp/rss
+
+Bill Simmons Columns: http://search.espn.com/rss/bill-simmons/
+
+Grantland: http://www.grantland.com/feed
+
+BuckeyeNationEspn: http://www.espn.com/espn/rss/recruiting/osu/news
+
+DawgNationEspn: http://www.espn.com/espn/rss/recruiting/georgia/news
+
+DuckNationEspn: http://www.espn.com/espn/rss/recruiting/oregon/news
+
+GatorNationEspn: http://www.espn.com/espn/rss/recruiting/florida/news
+
+GigEmNationEspn: http://www.espn.com/espn/rss/recruiting/tamu/news
+
+GueauxTigerNationEspn: http://www.espn.com/espn/rss/recruiting/lsu/news
+
+HornsNationEspn: http://www.espn.com/espn/rss/recruiting/texas/news
+
+HuskyNationEspn: http://www.espn.com/espn/rss/recruiting/washington/news
+
+NittanyNationEspn: http://www.espn.com/espn/rss/recruiting/psu/news
+
+NoleNationEspn: http://www.espn.com/espn/rss/recruiting/fsu/news
+
+SoonerNationEspn: http://www.espn.com/espn/rss/recruiting/oklahoma/news
+
+TideNationEspn: http://www.espn.com/espn/rss/recruiting/alabama/news
+
+WeAreSC: http://www.espn.com/espn/rss/recruiting/usc/news
+
+WolverineNationEspn: http://www.espn.com/espn/rss/recruiting/michigan/ne

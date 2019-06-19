@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 17 Jun 2019 18:03:14 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Egypt's ousted president Mohammed Morsi dies during trial]]></title>
+            <description><![CDATA[Mohammed Morsi, the Islamist leader ousted by the army in 2013, dies after fainting in a courtroom.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-48668941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-48668941</guid>
+            <pubDate>Mon, 17 Jun 2019 17:47:53 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16BCC/production/_107423139_mediaitem107423138.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran nuclear deal: Enriched uranium limit will be breached on 27 June]]></title>
+            <description><![CDATA[It will exceed the amount allowed under a nuclear deal, amid heightened tensions over US sanctions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-48661843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-48661843</guid>
+            <pubDate>Mon, 17 Jun 2019 15:02:52 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/4BF0/production/_107404491_mediaitem107404490.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong protest: Joshua Wong calls for HK leader Carrie Lam to resign]]></title>
+            <description><![CDATA[Joshua Wong gives his backing to protesters angry at a bill allowing extradition to China.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-48659073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-48659073</guid>
+            <pubDate>Mon, 17 Jun 2019 11:55:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3854/production/_107402441_hi054693483.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gloria Vanderbilt: US fashion icon and heiress dies aged 95]]></title>
+            <description><![CDATA[The socialite and a designer jeans pioneer had been suffering from stomach cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48666249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48666249</guid>
+            <pubDate>Mon, 17 Jun 2019 15:44:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2E72/production/_107409811_3b40f6e7-fd4f-4111-b7c5-c8d626502518.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South America power cut: Argentina investigates 'unprecedented' outage]]></title>
+            <description><![CDATA[Tens of million were left without power in Argentina and neighbouring countries on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-48662279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-48662279</guid>
+            <pubDate>Mon, 17 Jun 2019 10:18:29 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/13BA/production/_107405050_mediaitem107405049.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stealing from the sick in Uganda]]></title>
+            <description><![CDATA[The BBC has uncovered evidence that prescription drugs have been taken out of circulation by health workers and sold on illegally.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-48634434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-48634434</guid>
+            <pubDate>Mon, 17 Jun 2019 00:26:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/85A2/production/_107401243_p07d9zff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Phoenix mayor apologises after police threaten to shoot black family]]></title>
+            <description><![CDATA[Police in Arizona say they are investigating a video and have issued a public apology.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48660143</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48660143</guid>
+            <pubDate>Mon, 17 Jun 2019 14:22:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/722E/production/_107403292_phoenix2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belgium monks forced to sell prized beer online to beat resellers]]></title>
+            <description><![CDATA[Beer brewed at Belgium’s St Sixtus Abbey is to be sold online in a bid to dampen black market sales.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48668901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48668901</guid>
+            <pubDate>Mon, 17 Jun 2019 16:43:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/95EC/production/_107408383_mediaitem107408382.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vatican considers ordaining older married men in remote parts of Amazon]]></title>
+            <description><![CDATA[A document suggests the idea to deal with the shortage of priests in remote areas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-48666243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-48666243</guid>
+            <pubDate>Mon, 17 Jun 2019 14:26:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C59E/production/_107409505_gettyimages-126362352-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria suicide blast kills 30 at video hall in Borno]]></title>
+            <description><![CDATA[Bombers detonate devices outside a hall where people gather to watch football and films, killing 30.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-48660150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-48660150</guid>
+            <pubDate>Mon, 17 Jun 2019 15:44:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F38E/production/_107405326_nigeria.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's Xi Jinping to make first state visit to North Korea]]></title>
+            <description><![CDATA[The two-day visit will be the first by a Chinese leader in more than a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-48666423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-48666423</guid>
+            <pubDate>Mon, 17 Jun 2019 15:36:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18506/production/_107409599_northkoreachinaafpgetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cat filter accidentally used in Pakistani minister’s live press conference]]></title>
+            <description><![CDATA[Much mirth ensues after a politician's press conference is accidentally live-streamed with a cat filter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-48663289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-48663289</guid>
+            <pubDate>Mon, 17 Jun 2019 12:44:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10658/production/_107406176_pakistanipoliticiancatfilter.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong extradition: How radical youth forced the government's hand]]></title>
+            <description><![CDATA[How did Hong Kong's protesters - many barely out of their teens - manage to force the government's hand?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-48655474</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-48655474</guid>
+            <pubDate>Mon, 17 Jun 2019 07:47:08 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2918/production/_107402501_mediaitem107402500.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mohammed Morsi: A turbulent presidency cut short by the army]]></title>
+            <description><![CDATA[Mohammed Morsi was Egypt's first democratically elected president before being overthrown in 2013.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-18371427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-18371427</guid>
+            <pubDate>Mon, 17 Jun 2019 17:21:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CDFA/production/_107403725_mediaitem107403724.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six surprises from Trump's TV interview]]></title>
+            <description><![CDATA[The president's thoughts on coughing, UFOs and how he is more mistreated than even Abraham Lincoln.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48665793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48665793</guid>
+            <pubDate>Mon, 17 Jun 2019 16:29:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/164D7/production/_107415319_untitr6456456led-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU leaders face pressure to deliver on climate change]]></title>
+            <description><![CDATA[The Greens' election success reshapes the agenda as EU leaders decide the bloc's priorities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48621860</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48621860</guid>
+            <pubDate>Sun, 16 Jun 2019 23:14:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11996/production/_107368027_gerclimateepa11jun19.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saving sharks: One woman's mission to protect the hammerhead]]></title>
+            <description><![CDATA[Marine biologist Ilena Zanella vowed to save the shark after diving with them off Costa Rica.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48626224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48626224</guid>
+            <pubDate>Sun, 16 Jun 2019 23:38:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13B24/production/_107367608_wfn_zanella_hammerhead_cpyr_edwarherreomision.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Africa: 'Sudan's revolutionaries offline but not silenced']]></title>
+            <description><![CDATA[The internet has been shut down but pro-democracy protesters are finding ways to fight back.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-48640939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-48640939</guid>
+            <pubDate>Sun, 16 Jun 2019 23:16:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/170C0/production/_107400449_gettyimages-1144703645.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family thought US police were going to shoot them]]></title>
+            <description><![CDATA[Armed police surrounded the family car after a young child left a shop with a doll without paying for it.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48661624</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48661624</guid>
+            <pubDate>Mon, 17 Jun 2019 11:10:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5A00/production/_107404032_p07dby1h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buenos Aires in darkness after power failure]]></title>
+            <description><![CDATA[Tens of millions of homes across Argentina, Uruguay and parts of Paraguay suffered from a power cut.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-48652822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-48652822</guid>
+            <pubDate>Sun, 16 Jun 2019 20:53:43 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1818C/production/_107400789_p07d9rrb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protests return to Hong Kong streets]]></title>
+            <description><![CDATA[Thousands have marched against proposed changes to the extradition law.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-48657052</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-48657052</guid>
+            <pubDate>Mon, 17 Jun 2019 03:53:55 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15ADF/production/_107399788_p07d9h8c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miriwoong: The Australian language which barely anybody speaks]]></title>
+            <description><![CDATA[Australia has about 100 indigenous languages at risk of being lost - so how do you save them?]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-48632801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-48632801</guid>
+            <pubDate>Sun, 16 Jun 2019 20:45:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/130E9/production/_107375087_p07d3ck0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigerian weddings: Glitz, glamour but mind the cost]]></title>
+            <description><![CDATA[Why are some couples are having multiple weddings? Leah and Echina explain why they did.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-48639078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-48639078</guid>
+            <pubDate>Sat, 15 Jun 2019 23:55:32 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/F29C/production/_107380126_p07d5zcw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Priests wear hard hats at Notre-Dame]]></title>
+            <description><![CDATA[The first Mass has been held at Notre-Dame cathedral since the devastating fire in April.]]></description>
+            <link>https://www.bbc.co.uk/news/world-48649245</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-48649245</guid>
+            <pubDate>Sat, 15 Jun 2019 21:07:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/135D7/production/_107391397_p07d8bgc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spice Girls: Geri apologises for quitting in 1998]]></title>
+            <description><![CDATA[Ginger Spice says she regrets leaving the band at the height of their fame, as their reunion tour ends.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-48635450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-48635450</guid>
+            <pubDate>Sun, 16 Jun 2019 01:17:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14774/production/_107382838_mediaitem107368585.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amanda Knox feared attacks and accusations on return to Italy]]></title>
+            <description><![CDATA[Acquitted of Meredith Kercher's murder, Amanda Knox decries prejudice and trial by the media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48647878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48647878</guid>
+            <pubDate>Sat, 15 Jun 2019 12:23:56 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/13F5/production/_107390150_mediaitem107390149.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OneFairWage: Is it wrong to pay tipped staff less than others?]]></title>
+            <description><![CDATA[Some US workers can be paid just $2.13 an hour by their bosses, but raising the rate is controversial.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48584891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48584891</guid>
+            <pubDate>Thu, 13 Jun 2019 22:34:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9909/production/_107377193_gettyimages-532193340_crop.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jan Broberg: Abuser used alien conspiracy to control me]]></title>
+            <description><![CDATA[Jan Broberg from Abducted in Plain Sight tells BBC Radio 5 Live how abuser lied to control her.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48191548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48191548</guid>
+            <pubDate>Sat, 15 Jun 2019 23:27:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/114E2/production/_106828807_fbcovercopy22.jpg"/>
+        </item>
+    </channel>
+</rss>

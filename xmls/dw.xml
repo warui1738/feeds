@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dwsyn="http://partner.dw.com/syndication/dwsyn/">
+ <channel rdf:about="https://partner.dw.com/syndication/feeds/rss-en-all.1573.rdf">
+  <description>Deutsche Welle</description>
+  <link>http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf</link>
+  <title>Deutsche Welle</title>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFequency>4</sy:updateFequency>
+  <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
+  <dc:date>2019-06-15T16:13:14Z</dc:date>
+  <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/italian-director-franco-zeffirelli-dead-at-96/a-49221370?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-us-tensions-flare-in-the-persian-gulf-what-s-at-stake/a-49221479?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/saudi-arabia-demands-decisive-response-to-gulf-oil-tanker-attacks/a-49220859?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ebola-outbreak-puts-dr-congo-s-neighbors-on-high-alert/a-49219737?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/slovakia-s-first-female-president-sworn-in/a-49220897?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nazanin-zaghari-ratcliffe-british-iranian-woman-jailed-in-iran-goes-on-hunger-strike/a-49219686?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/opinion-hong-kong-unrest-has-no-end-in-sight/a-49219874?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nine-arrested-as-german-girl-s-birthday-party-turns-riotous/a-49219672?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/berlin-s-club-der-visionäre-burned-down-almost-completely/a-49219691?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/no-elephants-poached-in-a-year-at-mozambique-s-niassa-wildlife-park/a-49219136?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/venezuelan-migrants-face-tougher-border-policy-in-peru/a-49218905?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/amanda-knox-returns-to-italy-for-first-time-since-acquittal/a-49218894?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/opinion-a-persian-gulf-war-can-have-no-winners/a-49214073?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/un-urges-independent-probe-in-strait-of-hormuz-crisis/a-49217637?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hong-kong-suspends-work-on-controversial-extradition-bill/a-49216048?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/secondhand-bookstore-empowers-greece-s-homeless/a-49192023?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/tennessee-volkswagen-workers-reject-unionization/a-49215428?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/notre-dame-to-celebrate-first-mass-since-fire/a-49215434?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/moldovan-oligarch-s-party-makes-way-for-pro-europe-pro-russia-coalition/a-49215060?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/world-war-ii-bomb-defused-in-berlin/a-49214228?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/southern-eu-leaders-criticize-migrant-rescue-ships/a-49214522?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/director-of-jewish-museum-berlin-resigns/a-49214098?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-impressive-tv-viewer-numbers-in-germany-and-around-the-world/a-49212971?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/is-nato-s-future-at-risk-over-us-turkey-rift/a-49212700?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/opinion-erdogan-s-ego-trip-buying-russian-arms/a-49212164?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-russia-spread-disinformation-ahead-of-eu-elections/a-49210802?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-lena-oberdorf-the-17-year-old-student-learning-fast/a-49205483?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/art-basel-small-galleries-are-dying-despite-art-market-boom/a-49207770?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/when-smart-devices-pass-secrets-to-the-police/a-49207589?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-starts-giving-passports-to-ukrainians-from-donetsk-luhansk/a-49207353?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-bans-gender-stereotypes-in-ads/a-49196042?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-strait-of-hormuz-the-world-s-most-important-oil-choke-point/a-49197693?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/blood-donation-everything-you-ve-ever-needed-to-know/a-49187606?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/rediscover-east-germany-s-top-fashion-magazine-sibylle/a-49195075?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/swiss-women-go-on-strike-over-inequality/a-49119906?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nato-and-russia-maneuvers-and-countermaneuvers-in-the-baltic-sea/a-49188875?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-records-significant-drop-in-weapons-exports-in-2018/a-49188087?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-s-troop-talk-again-rattles-germany-s-security-assumptions/a-49187076?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-loses-billions-as-chinese-tourists-stay-away-over-trade-war/a-49187366?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/driving-a-hydrogen-powered-car-in-denmark/a-49172769?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-2-builders-forge-ahead-despite-renewed-us-sanctions-threat/a-49186907?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/from-tintin-to-lucky-luke-what-makes-belgian-comics-so-successful/a-49139532?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/what-does-berlin-have-that-nyc-doesn-t/a-49171393?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-leroy-sane-would-tick-several-boxes-at-bayern-munich/a-49173659?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/climate-action-can-we-change-the-climate-from-the-grassroots-up/a-49016447?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/europe-s-plastic-waste-sent-home-in-toxic-row/a-49157505?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/natural-high-brazil-s-guarana-growers-ditch-chemicals-for-ancient-knowledge/a-49073771?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-corinne-diacre-wants-france-focused-not-emotional/a-49168439?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-germany-shedding-inexperienced-narrative/a-49168463?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-china-trade-spat-china-s-asian-neighbors-see-record-investments/a-49150979?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-eintracht-frankfurt-sign-young-striker/a-48896856?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/opening-of-berlin-s-ambitious-humboldt-forum-museum-project-delayed/a-49155592?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/25-years-of-bonn-s-history-museum-postwar-germany-portrayed-through-objects/a-49152232?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/men-against-boys-women-against-girls/a-49150473?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/human-powered-ferry-makes-a-difference-for-tourists-and-the-captain/a-49147702?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/rené-pollesch-to-head-berlin-s-iconic-volksbühne/a-49148251?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/tips-for-apartment-hunting-and-moving-in-germany/a-48968956?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/rammstein-singer-till-lindemann-under-investigation-for-assault/a-49148366?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/chernobyl-creator-asks-tourists-to-show-respect-at-disaster-site/a-49146180?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/caught-between-floods-and-drought-farmers-in-nicaragua-living-in-uncertainty/a-49021423?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/radiohead-makes-stolen-tracks-available-to-help-extinction-rebellion/a-49141432?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/anne-frank-s-incomplete-novel-dear-kitty-published/a-49138442?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-gay-paragraph-175-abolished-25-years-ago/a-49124549?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/stasi-s-pervasive-footprint-across-two-berlins-revealed/a-49135973?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-gay-conversion-therapy-ban-presented/a-49135468?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/carl-hagenbeck-the-inventor-of-the-modern-animal-park/a-49106027?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/rapper-kollegah-s-shisha-bar-raided-by-dusseldorf-police/a-49131155?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/heiko-maas-in-tehran-why-germany-can-t-concede-too-much-to-iran/a-49128510?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-alex-morgan-s-fight-for-equality-reaches-new-heights/a-49116020?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/tintin-artwork-sells-for-1-1-million-at-auction/a-49119124?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-world-cup-china-looks-to-reignite-former-glories/a-49110551?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/feast-for-the-eyes-food-photography-on-show-in-berlin/a-49081683?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-political-parties-cdu-csu-spd-afd-fdp-left-party-greens-what-you-need-to-know/a-38085900?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/fifa-women-s-world-cup-why-germany-has-a-unique-football-vocabulary/a-44156996?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ampaire-test-flies-world-s-biggest-electric-plane/a-49098126?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/alzheimer-s-and-tooth-brushing-forget-to-brush-today-forget-a-lot-more-later/a-49098131?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-the-moers-festival-became-a-celebration-of-avant-garde-change/a-49089427?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ricin-attack-plot-trial-starts-for-tunisian-german-couple/a-49097871?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cartoons-for-future-artists-react-to-the-climate-crisis/a-49081408?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-new-refugee-labor-laws-slammed-as-lacking-common-sense/a-49095320?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/lea-schüller-the-goals-to-lead-germany-to-glory/a-49097113?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/central-bank-slashes-german-growth-predictions/a-49097372?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/kids-in-germany-to-name-exoplanet-star/a-49096445?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-greens-hit-poll-high-ahead-of-merkel-s-bloc-survey/a-49094285?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/first-mayor-from-former-east-heads-german-cities-association/a-49092990?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/east-german-civil-rights-activists-praised-in-bundestag-30-years-on/a-49083639?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/european-drug-report-2019-directly-contrasts-us-drug-crisis-tells-a-story-of-relative-calm/a-49072315?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/luciano-pavarotti-larger-than-life-opera-singer-celebrated-in-documentary/a-49068717?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-killer-nurse-sentenced-to-life-for-murdering-patients/a-49058531?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nestle-video-leads-to-lobbying-accusations-against-german-minister/a-49078899?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/berlin-takes-a-new-approach-to-the-three-seas-initiative/a-49076663?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/sandcastle-in-germany-sets-new-world-record/a-49076721?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-war-widows-protecting-sri-lanka-s-mangroves/a-48735864?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/by-inventing-family-of-holocaust-victims-blogger-avoided-collective-responsibility/a-49062218?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-killing-of-kassel-district-president-leaves-locals-aghast/a-49060746?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ebola-cases-in-dr-congo-top-2-000/a-49060502?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-doctors-want-human-egg-donations-to-be-legalized/a-49057057?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/italy-taranto-residents-rise-up-to-stop-air-pollution-claiming-local-lives/a-49050350?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-bond-yields-at-record-lows-amid-recession-fears/a-49052944?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mexicans-turn-to-ancient-aztec-floating-gardens-to-revive-mangrove-forests/a-48939312?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/swedes-switch-to-trains-due-to-global-warming/a-49033136?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/forbidden-fruit-the-curious-early-history-of-apples/a-48967024?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/artificial-intelligence-creates-perfumes-without-being-able-to-smell-them/a-48989202?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/smoking-or-vaping-e-cigarettes-as-a-lesser-evil/a-48858120?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/restoring-forests-in-mali-tree-stumps-could-be-the-solution-to-disappearing-woodlands/a-48820530?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/government-must-involve-residents-in-cleanup-of-nairobi-rivers/a-48862536?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/kenya-s-herders-adapt-to-drought-with-new-land-management-deals/a-48757247?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/oil-giants-face-shareholder-pressure-on-climate-emissions-greenhouse-gas-targets/a-48802418?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/defending-against-floods-in-bosnia-and-herzegovina/a-48720666?maca=en-rss-en-all-1573-rdf"/>
+   </rdf:Seq>
+  </items>
+ </channel>
+ <image rdf:about="https://rss.dw.com/images/DW-L-RGB_whitebg.png">
+  <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
+  <link>http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf</link>
+  <title>DW.COM</title>
+  <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
+ </image>
+ <item rdf:about="https://www.dw.com/en/italian-director-franco-zeffirelli-dead-at-96/a-49221370?maca=en-rss-en-all-1573-rdf">
+  <title>Italian director Franco Zeffirelli dead at 96</title>
+  <link>https://www.dw.com/en/italian-director-franco-zeffirelli-dead-at-96/a-49221370?maca=en-rss-en-all-1573-rdf</link>
+  <description>Famed for opulent film and opera productions, Zeffirelli led a storied life and often courted controversy. He died Saturday in Rome.</description>
+  <dc:date>2019-06-15T16:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49221370</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-us-tensions-flare-in-the-persian-gulf-what-s-at-stake/a-49221479?maca=en-rss-en-all-1573-rdf">
+  <title>Iran-US tensions flare in the Persian Gulf: What&apos;s at stake</title>
+  <link>https://www.dw.com/en/iran-us-tensions-flare-in-the-persian-gulf-what-s-at-stake/a-49221479?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US has blamed Iran for attacks on oil tankers in the Persian Gulf — a claim Iran denies. The dispute has raised concerns of a new conflict in the region. DW examines the key actors involved and their interests.</description>
+  <dc:date>2019-06-15T16:01:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49221479</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/saudi-arabia-demands-decisive-response-to-gulf-oil-tanker-attacks/a-49220859?maca=en-rss-en-all-1573-rdf">
+  <title>Saudi Arabia demands &apos;decisive&apos; response to Gulf oil tanker attacks</title>
+  <link>https://www.dw.com/en/saudi-arabia-demands-decisive-response-to-gulf-oil-tanker-attacks/a-49220859?maca=en-rss-en-all-1573-rdf</link>
+  <description>Energy Minister Khalid al-Falih said the vital oil supply routes in the Gulf must be protected following &quot;terrorist acts.&quot; G20 ministers have sought to downplay fears of possible disruption.</description>
+  <dc:date>2019-06-15T15:36:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49220859</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ebola-outbreak-puts-dr-congo-s-neighbors-on-high-alert/a-49219737?maca=en-rss-en-all-1573-rdf">
+  <title>Ebola outbreak puts DR Congo&apos;s neighbors on high-alert</title>
+  <link>https://www.dw.com/en/ebola-outbreak-puts-dr-congo-s-neighbors-on-high-alert/a-49219737?maca=en-rss-en-all-1573-rdf</link>
+  <description>The WHO has not declared the current outbreak an international emergency. But neighboring countries considered at risk have upped their preventative measures after the virus spread to Uganda earlier this week.</description>
+  <dc:date>2019-06-15T15:15:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219737</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/slovakia-s-first-female-president-sworn-in/a-49220897?maca=en-rss-en-all-1573-rdf">
+  <title>Slovakia&apos;s first female president sworn in</title>
+  <link>https://www.dw.com/en/slovakia-s-first-female-president-sworn-in/a-49220897?maca=en-rss-en-all-1573-rdf</link>
+  <description>Zuzana Caputova pledged to fight injustice and impunity in her inauguration speech. The 45-year-old is the country&apos;s first female president and the youngest person ever to be elected to the office.</description>
+  <dc:date>2019-06-15T14:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49220897</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nazanin-zaghari-ratcliffe-british-iranian-woman-jailed-in-iran-goes-on-hunger-strike/a-49219686?maca=en-rss-en-all-1573-rdf">
+  <title>Nazanin Zaghari-Ratcliffe: British-Iranian woman jailed in Iran goes on hunger strike</title>
+  <link>https://www.dw.com/en/nazanin-zaghari-ratcliffe-british-iranian-woman-jailed-in-iran-goes-on-hunger-strike/a-49219686?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nazanin Zaghari-Ratcliffe, who is being held in a Tehran prison, is refusing food as she marks her daughter&apos;s fifth birthday. She was arrested in 2016 after she took her daughter to visit family.</description>
+  <dc:date>2019-06-15T14:08:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219686</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/opinion-hong-kong-unrest-has-no-end-in-sight/a-49219874?maca=en-rss-en-all-1573-rdf">
+  <title>Opinion: Hong Kong unrest has no end in sight</title>
+  <link>https://www.dw.com/en/opinion-hong-kong-unrest-has-no-end-in-sight/a-49219874?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Hong Kong government has put a controversial extradition law on ice. But the government&apos;s suspension will not solve the unrest, it only means a temporary respite, says DW&apos;s Philipp Bilsky.</description>
+  <dc:date>2019-06-15T13:50:00Z</dc:date>
+  <dc:subject>Opinion</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219874</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nine-arrested-as-german-girl-s-birthday-party-turns-riotous/a-49219672?maca=en-rss-en-all-1573-rdf">
+  <title>Nine arrested as German girl&apos;s birthday party turns riotous</title>
+  <link>https://www.dw.com/en/nine-arrested-as-german-girl-s-birthday-party-turns-riotous/a-49219672?maca=en-rss-en-all-1573-rdf</link>
+  <description>As many as 400 people turned out for the 16-year-old&apos;s private celebration near the southwestern city of Mannheim. Police took several hours to restore order after the drunken crowd turned violent.</description>
+  <dc:date>2019-06-15T13:16:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219672</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/berlin-s-club-der-visionäre-burned-down-almost-completely/a-49219691?maca=en-rss-en-all-1573-rdf">
+  <title>Berlin&apos;s Club der Visionäre &apos;burned down almost completely&apos;</title>
+  <link>https://www.dw.com/en/berlin-s-club-der-visionäre-burned-down-almost-completely/a-49219691?maca=en-rss-en-all-1573-rdf</link>
+  <description>Club der Visionäre, a well-known party spot in Berlin&apos;s Kreuzberg district, has been gutted by a fire, authorities said. Emergency responders managed to stop the blaze before it reached a nearby gas station.</description>
+  <dc:date>2019-06-15T13:05:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219691</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/no-elephants-poached-in-a-year-at-mozambique-s-niassa-wildlife-park/a-49219136?maca=en-rss-en-all-1573-rdf">
+  <title>No elephants poached in a year at Mozambique&apos;s Niassa wildlife park</title>
+  <link>https://www.dw.com/en/no-elephants-poached-in-a-year-at-mozambique-s-niassa-wildlife-park/a-49219136?maca=en-rss-en-all-1573-rdf</link>
+  <description>Niassa Reserve, one of the biggest wildlife parks in Africa, marked a year without losing a single elephant to the poachers. Up to 4,000 of the animals roam the Mozambique park, which covers more land than Switzerland.</description>
+  <dc:date>2019-06-15T12:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49219136</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/venezuelan-migrants-face-tougher-border-policy-in-peru/a-49218905?maca=en-rss-en-all-1573-rdf">
+  <title>Venezuelan migrants face tougher border policy in Peru</title>
+  <link>https://www.dw.com/en/venezuelan-migrants-face-tougher-border-policy-in-peru/a-49218905?maca=en-rss-en-all-1573-rdf</link>
+  <description>Peru is the latest South American country to tighten its border policy for Venezuelans as a migration crisis continues. Migrants desperately tried to cross the border before the deadline.</description>
+  <dc:date>2019-06-15T11:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49218905</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/amanda-knox-returns-to-italy-for-first-time-since-acquittal/a-49218894?maca=en-rss-en-all-1573-rdf">
+  <title>Amanda Knox returns to Italy for first time since acquittal</title>
+  <link>https://www.dw.com/en/amanda-knox-returns-to-italy-for-first-time-since-acquittal/a-49218894?maca=en-rss-en-all-1573-rdf</link>
+  <description>Once accused of brutally murdering her roommate, the exonerated journalist has called for an end to &quot;irresponsible media.&quot; Her case gained widespread notoriety, partly due to the media frenzy surrounding her trial.</description>
+  <dc:date>2019-06-15T11:10:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49218894</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/opinion-a-persian-gulf-war-can-have-no-winners/a-49214073?maca=en-rss-en-all-1573-rdf">
+  <title>Opinion: A Persian Gulf war can have no winners</title>
+  <link>https://www.dw.com/en/opinion-a-persian-gulf-war-can-have-no-winners/a-49214073?maca=en-rss-en-all-1573-rdf</link>
+  <description>After the attacks on two oil tankers in the Strait of Hormuz, the US is blaming Iran. How credible is the accusation, asks DW&apos;s Rainer Sollich, and could there be other powers at play?</description>
+  <dc:date>2019-06-15T11:07:00Z</dc:date>
+  <dc:subject>Opinion</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49214073</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/un-urges-independent-probe-in-strait-of-hormuz-crisis/a-49217637?maca=en-rss-en-all-1573-rdf">
+  <title>UN urges independent probe in Strait of Hormuz crisis</title>
+  <link>https://www.dw.com/en/un-urges-independent-probe-in-strait-of-hormuz-crisis/a-49217637?maca=en-rss-en-all-1573-rdf</link>
+  <description>UN chief Antonio Guterres has called on all actors in the region to &quot;avoid a major confrontation.&quot; The US and UK have accused Iran of attacking tankers transiting through the Persian Gulf.</description>
+  <dc:date>2019-06-15T08:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49217637</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hong-kong-suspends-work-on-controversial-extradition-bill/a-49216048?maca=en-rss-en-all-1573-rdf">
+  <title>Hong Kong &apos;suspends work&apos; on controversial extradition bill</title>
+  <link>https://www.dw.com/en/hong-kong-suspends-work-on-controversial-extradition-bill/a-49216048?maca=en-rss-en-all-1573-rdf</link>
+  <description>City leader Carrie Lam said in a press conference her government would indefinitely &apos;suspend work&apos; on the bill. The proposed law has triggered the biggest protests in the city since its British handover in 1997.</description>
+  <dc:date>2019-06-15T06:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49216048</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/secondhand-bookstore-empowers-greece-s-homeless/a-49192023?maca=en-rss-en-all-1573-rdf">
+  <title>Secondhand bookstore empowers Greece&apos;s homeless</title>
+  <link>https://www.dw.com/en/secondhand-bookstore-empowers-greece-s-homeless/a-49192023?maca=en-rss-en-all-1573-rdf</link>
+  <description>Relegated to the ranks of Greeks made homeless during the country&apos;s economic crisis, one 70-year-old man reclaimed some of his past glory by taking matters into his own hands. Demetrios Ioannou reports from Athens.</description>
+  <dc:date>2019-06-15T05:43:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49192023</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/tennessee-volkswagen-workers-reject-unionization/a-49215428?maca=en-rss-en-all-1573-rdf">
+  <title>Tennessee Volkswagen workers reject unionization</title>
+  <link>https://www.dw.com/en/tennessee-volkswagen-workers-reject-unionization/a-49215428?maca=en-rss-en-all-1573-rdf</link>
+  <description>Factory workers at a Volkswagen plant in Tennessee have voted against unionizing. The vote dealt a blow to UAW efforts to gain a foothold among foreign auto facilities in the southern part of the United States.</description>
+  <dc:date>2019-06-15T03:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49215428</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/notre-dame-to-celebrate-first-mass-since-fire/a-49215434?maca=en-rss-en-all-1573-rdf">
+  <title>Notre Dame to celebrate first Mass since fire</title>
+  <link>https://www.dw.com/en/notre-dame-to-celebrate-first-mass-since-fire/a-49215434?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Mass comes as pledges from billionaires to fund restoration of the cathedral have failed to materialize. Instead, it&apos;s mainly been small donations filling the church&apos;s coffers.</description>
+  <dc:date>2019-06-15T02:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49215434</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/moldovan-oligarch-s-party-makes-way-for-pro-europe-pro-russia-coalition/a-49215060?maca=en-rss-en-all-1573-rdf">
+  <title>Moldovan oligarch&apos;s party makes way for pro-Europe, pro-Russia coalition</title>
+  <link>https://www.dw.com/en/moldovan-oligarch-s-party-makes-way-for-pro-europe-pro-russia-coalition/a-49215060?maca=en-rss-en-all-1573-rdf</link>
+  <description>Moldova&apos;s Democratic Party, headed by a powerful oligarch, has ceded power to an unlikely coalition of pro-Russian and pro-European forces. It&apos;s an alliance even the new prime minister called unnatural.</description>
+  <dc:date>2019-06-15T01:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49215060</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/world-war-ii-bomb-defused-in-berlin/a-49214228?maca=en-rss-en-all-1573-rdf">
+  <title>World War II bomb defused in Berlin</title>
+  <link>https://www.dw.com/en/world-war-ii-bomb-defused-in-berlin/a-49214228?maca=en-rss-en-all-1573-rdf</link>
+  <description>A World War II bomb has been found and defused near the German capital&apos;s famous Alexanderplatz. Authorities say they were able to safely destroy the 100-kilogram behemoth&apos;s detonator.</description>
+  <dc:date>2019-06-15T00:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49214228</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/southern-eu-leaders-criticize-migrant-rescue-ships/a-49214522?maca=en-rss-en-all-1573-rdf">
+  <title>Southern EU leaders criticize migrant rescue ships</title>
+  <link>https://www.dw.com/en/southern-eu-leaders-criticize-migrant-rescue-ships/a-49214522?maca=en-rss-en-all-1573-rdf</link>
+  <description>Leaders of southern EU states tried to develop a common political and economic stance ahead of an EU summit. Migration was one issue on the agenda, with a call for rescue ships to give way to the Libyan coast guard.</description>
+  <dc:date>2019-06-14T23:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49214522</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/director-of-jewish-museum-berlin-resigns/a-49214098?maca=en-rss-en-all-1573-rdf">
+  <title>Director of Jewish Museum Berlin resigns</title>
+  <link>https://www.dw.com/en/director-of-jewish-museum-berlin-resigns/a-49214098?maca=en-rss-en-all-1573-rdf</link>
+  <description>The director of the Jewish Museum Berlin, Peter Schäfer, has resigned following criticism from the Central Council of Jews. At issue were a museum exhibition and a tweet seen to be critical of Israel&apos;s occupation policy.</description>
+  <dc:date>2019-06-14T23:02:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49214098</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-impressive-tv-viewer-numbers-in-germany-and-around-the-world/a-49212971?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: Impressive TV viewer numbers in Germany and around the world</title>
+  <link>https://www.dw.com/en/women-s-world-cup-impressive-tv-viewer-numbers-in-germany-and-around-the-world/a-49212971?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s national team received notable ratings for their first two Women&apos;s World Cup games, continuing a worldwide trend of decent viewer numbers. Ticket sales have reportedly been less encouraging.</description>
+  <dc:date>2019-06-14T19:12:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49212971</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/is-nato-s-future-at-risk-over-us-turkey-rift/a-49212700?maca=en-rss-en-all-1573-rdf">
+  <title>Is NATO&apos;s future at risk over US-Turkey rift?</title>
+  <link>https://www.dw.com/en/is-nato-s-future-at-risk-over-us-turkey-rift/a-49212700?maca=en-rss-en-all-1573-rdf</link>
+  <description>No one is arguing against Turkey&apos;s right to buy an air defense system anywhere it wants. But the price of the Russian S-400 may be higher than Ankara anticipated — and could cost all NATO allies. Teri Schultz reports.</description>
+  <dc:date>2019-06-14T18:37:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49212700</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/opinion-erdogan-s-ego-trip-buying-russian-arms/a-49212164?maca=en-rss-en-all-1573-rdf">
+  <title>Opinion: Erdogan&apos;s ego trip buying Russian arms</title>
+  <link>https://www.dw.com/en/opinion-erdogan-s-ego-trip-buying-russian-arms/a-49212164?maca=en-rss-en-all-1573-rdf</link>
+  <description>Turkey is determined to buy a Russian air defense system. President Recep Tayyip Erdogan no longer respects NATO. It&apos;s a dangerous decision — especially for the alliance, Peter Sturm writes.</description>
+  <dc:date>2019-06-14T16:29:00Z</dc:date>
+  <dc:subject>Opinion</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49212164</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eu-russia-spread-disinformation-ahead-of-eu-elections/a-49210802?maca=en-rss-en-all-1573-rdf">
+  <title>EU: Russia spread disinformation ahead of EU elections</title>
+  <link>https://www.dw.com/en/eu-russia-spread-disinformation-ahead-of-eu-elections/a-49210802?maca=en-rss-en-all-1573-rdf</link>
+  <description>The European Commission presented a report detailing &quot;continued and sustained&quot; disinformation coming from Russia. The campaign promoted fake news stories to possibly euroskeptic demographics.</description>
+  <dc:date>2019-06-14T16:10:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49210802</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-lena-oberdorf-the-17-year-old-student-learning-fast/a-49205483?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: Lena Oberdorf – The 17-year-old student learning fast</title>
+  <link>https://www.dw.com/en/women-s-world-cup-lena-oberdorf-the-17-year-old-student-learning-fast/a-49205483?maca=en-rss-en-all-1573-rdf</link>
+  <description>Her coach says she&apos;s &quot;fantastic,&quot; and Lena Oberdorf has made made her mark at the World Cup while taking time out from school. With Germany through to round of 16, she could enhance her reputation against South Africa.</description>
+  <dc:date>2019-06-14T14:31:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49205483</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/art-basel-small-galleries-are-dying-despite-art-market-boom/a-49207770?maca=en-rss-en-all-1573-rdf">
+  <title>Art Basel: Small galleries are dying despite art market boom</title>
+  <link>https://www.dw.com/en/art-basel-small-galleries-are-dying-despite-art-market-boom/a-49207770?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Art Basel is one of the top-selling international art fairs. Yet among the record-breaking sales, not all dealers are profiting from the hype.</description>
+  <dc:date>2019-06-14T14:14:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49207770</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/when-smart-devices-pass-secrets-to-the-police/a-49207589?maca=en-rss-en-all-1573-rdf">
+  <title>When smart devices pass secrets to the police</title>
+  <link>https://www.dw.com/en/when-smart-devices-pass-secrets-to-the-police/a-49207589?maca=en-rss-en-all-1573-rdf</link>
+  <description>It may crackdown on crime — and privacy, too. That&apos;s if German police get powers to seize personal data on smart devices. Germany&apos;s discussing plans that are already a reality in the USA.</description>
+  <dc:date>2019-06-14T14:01:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49207589</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russia-starts-giving-passports-to-ukrainians-from-donetsk-luhansk/a-49207353?maca=en-rss-en-all-1573-rdf">
+  <title>Russia starts giving passports to Ukrainians from Donetsk, Luhansk</title>
+  <link>https://www.dw.com/en/russia-starts-giving-passports-to-ukrainians-from-donetsk-luhansk/a-49207353?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russian authorities have given out the first passports to residents of Ukraine&apos;s separatist regions, shrugging off international criticism. Kyiv said it would never recognize documents issued by the &quot;aggressor country.&quot;</description>
+  <dc:date>2019-06-14T13:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49207353</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-bans-gender-stereotypes-in-ads/a-49196042?maca=en-rss-en-all-1573-rdf">
+  <title>UK bans gender stereotypes in ads</title>
+  <link>https://www.dw.com/en/uk-bans-gender-stereotypes-in-ads/a-49196042?maca=en-rss-en-all-1573-rdf</link>
+  <description>A ban has come into force prohibiting commercials that reinforce gender prejudices. A prominent German feminist told DW that Germany is dragging its heels on the problem.</description>
+  <dc:date>2019-06-14T10:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49196042</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-strait-of-hormuz-the-world-s-most-important-oil-choke-point/a-49197693?maca=en-rss-en-all-1573-rdf">
+  <title>The Strait of Hormuz: The world&apos;s most important oil choke point</title>
+  <link>https://www.dw.com/en/the-strait-of-hormuz-the-world-s-most-important-oil-choke-point/a-49197693?maca=en-rss-en-all-1573-rdf</link>
+  <description>Following a number of oil tanker blasts in the Gulf of Oman, tensions between the United States and Iran are rising further. DW takes a closer look at what role the Strait of Hormuz plays for global oil supplies.</description>
+  <dc:date>2019-06-14T10:24:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49197693</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/blood-donation-everything-you-ve-ever-needed-to-know/a-49187606?maca=en-rss-en-all-1573-rdf">
+  <title>Blood donation: Everything you&apos;ve ever needed to know</title>
+  <link>https://www.dw.com/en/blood-donation-everything-you-ve-ever-needed-to-know/a-49187606?maca=en-rss-en-all-1573-rdf</link>
+  <description>Can cigarette smokers donate blood? Am I going to pass out? Can I drink booze afterwards? Should I eat beforehand? Am I old enough? Here&apos;s everything you ever wanted to know about blood donation on World Blood Donor Day.</description>
+  <dc:date>2019-06-14T10:15:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49187606</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/rediscover-east-germany-s-top-fashion-magazine-sibylle/a-49195075?maca=en-rss-en-all-1573-rdf">
+  <title>Rediscover East Germany&apos;s top fashion magazine, &apos;Sibylle&apos;</title>
+  <link>https://www.dw.com/en/rediscover-east-germany-s-top-fashion-magazine-sibylle/a-49195075?maca=en-rss-en-all-1573-rdf</link>
+  <description>An exhibition in Berlin showcases &quot;Sibylle,&quot; an East German fashion and culture magazine that for decades offered women in the communist state more than dress patterns.</description>
+  <dc:date>2019-06-14T10:12:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49195075</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/swiss-women-go-on-strike-over-inequality/a-49119906?maca=en-rss-en-all-1573-rdf">
+  <title>Swiss women go on strike over inequality</title>
+  <link>https://www.dw.com/en/swiss-women-go-on-strike-over-inequality/a-49119906?maca=en-rss-en-all-1573-rdf</link>
+  <description>Switzerland is one of the lowest-ranked countries in the West in terms of wage equality. Public workers in Zürich have disputed that supporting the strike violates political neutrality laws.</description>
+  <dc:date>2019-06-14T05:57:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49119906</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nato-and-russia-maneuvers-and-countermaneuvers-in-the-baltic-sea/a-49188875?maca=en-rss-en-all-1573-rdf">
+  <title>NATO and Russia: Maneuvers and countermaneuvers in the Baltic Sea</title>
+  <link>https://www.dw.com/en/nato-and-russia-maneuvers-and-countermaneuvers-in-the-baltic-sea/a-49188875?maca=en-rss-en-all-1573-rdf</link>
+  <description>NATO is again running Baltic Sea drills — but now, the exercise is headed by the US Navy&apos;s 2nd Fleet, a key force during the Cold War era. Fleet commander Vice Adm. Andrew Lewis spoke to DW about NATO&apos;s objectives.</description>
+  <dc:date>2019-06-14T05:10:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49188875</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-records-significant-drop-in-weapons-exports-in-2018/a-49188087?maca=en-rss-en-all-1573-rdf">
+  <title>Germany records significant drop in weapons exports in 2018</title>
+  <link>https://www.dw.com/en/germany-records-significant-drop-in-weapons-exports-in-2018/a-49188087?maca=en-rss-en-all-1573-rdf</link>
+  <description>The annual Weapons Export Report registered a 23% drop compared with 2017 according to media sources. The government says the decrease is a sign of Germany&apos;s &quot;restrictive and responsible weapons export policy.&quot;</description>
+  <dc:date>2019-06-13T18:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49188087</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/trump-s-troop-talk-again-rattles-germany-s-security-assumptions/a-49187076?maca=en-rss-en-all-1573-rdf">
+  <title>Trump&apos;s troop talk again rattles Germany&apos;s security assumptions</title>
+  <link>https://www.dw.com/en/trump-s-troop-talk-again-rattles-germany-s-security-assumptions/a-49187076?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump announced the US will send upward of 1,000 troops to Poland. The plan was light on details, but Trump said he knew where the forces would come from: Germany. Berlin&apos;s reaction is mixed.</description>
+  <dc:date>2019-06-13T17:58:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49187076</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-loses-billions-as-chinese-tourists-stay-away-over-trade-war/a-49187366?maca=en-rss-en-all-1573-rdf">
+  <title>US loses billions as Chinese tourists stay away over trade war</title>
+  <link>https://www.dw.com/en/us-loses-billions-as-chinese-tourists-stay-away-over-trade-war/a-49187366?maca=en-rss-en-all-1573-rdf</link>
+  <description>The number of arrivals from China to the US fell last year for the first time in 15 years. The Chinese are the world&apos;s highest-spending foreign visitors and their tourism dollar is sorely missed.</description>
+  <dc:date>2019-06-13T16:55:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49187366</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/driving-a-hydrogen-powered-car-in-denmark/a-49172769?maca=en-rss-en-all-1573-rdf">
+  <title>Driving a hydrogen-powered car in Denmark</title>
+  <link>https://www.dw.com/en/driving-a-hydrogen-powered-car-in-denmark/a-49172769?maca=en-rss-en-all-1573-rdf</link>
+  <description>Hydrogen-powered cars are still few and far between. In Europe, Denmark stands out for having the most dense network of stations for the CO2-free fuel. Oliver Ristau looks at whether such cars are suitable for daily use.</description>
+  <dc:date>2019-06-13T16:27:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49172769</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nord-stream-2-builders-forge-ahead-despite-renewed-us-sanctions-threat/a-49186907?maca=en-rss-en-all-1573-rdf">
+  <title>Nord Stream 2 builders forge ahead despite renewed US sanctions threat</title>
+  <link>https://www.dw.com/en/nord-stream-2-builders-forge-ahead-despite-renewed-us-sanctions-threat/a-49186907?maca=en-rss-en-all-1573-rdf</link>
+  <description>Despite a new US sanctions threat, companies involved in the Baltic Sea gas pipeline are ploughing ahead with plans to finish the project by the end of the year. But are Trump&apos;s latest remarks more serious?</description>
+  <dc:date>2019-06-13T16:19:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49186907</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/from-tintin-to-lucky-luke-what-makes-belgian-comics-so-successful/a-49139532?maca=en-rss-en-all-1573-rdf">
+  <title>From &apos;Tintin&apos; to &apos;Lucky Luke&apos;: What makes Belgian comics so successful?</title>
+  <link>https://www.dw.com/en/from-tintin-to-lucky-luke-what-makes-belgian-comics-so-successful/a-49139532?maca=en-rss-en-all-1573-rdf</link>
+  <description>Belgian comic heroes like Lucky Luke and the Smurfs enjoy worldwide recognition. But what makes Belgium the No.1 producer of European comics? Can Dickie and Co. make it on the international stage?</description>
+  <dc:date>2019-06-13T14:29:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49139532</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/what-does-berlin-have-that-nyc-doesn-t/a-49171393?maca=en-rss-en-all-1573-rdf">
+  <title>What does Berlin have that NYC doesn&apos;t?</title>
+  <link>https://www.dw.com/en/what-does-berlin-have-that-nyc-doesn-t/a-49171393?maca=en-rss-en-all-1573-rdf</link>
+  <description>The legendary image of Berlin as a free-spirited domain where underground culture thrives has attracted a great number of expats. But some New Yorkers are coming to the city to find another type of freedom.</description>
+  <dc:date>2019-06-13T13:07:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49171393</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/bundesliga-leroy-sane-would-tick-several-boxes-at-bayern-munich/a-49173659?maca=en-rss-en-all-1573-rdf">
+  <title>Bundesliga: Leroy Sane would tick several boxes at Bayern Munich</title>
+  <link>https://www.dw.com/en/bundesliga-leroy-sane-would-tick-several-boxes-at-bayern-munich/a-49173659?maca=en-rss-en-all-1573-rdf</link>
+  <description>Bayern Munich have made no secret of their interest in Leroy Sane, who has impressed for both Manchester City and Germany. But how likely is a transfer to the Bundesliga and why exactly do the German champions want him?</description>
+  <dc:date>2019-06-13T12:24:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49173659</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/climate-action-can-we-change-the-climate-from-the-grassroots-up/a-49016447?maca=en-rss-en-all-1573-rdf">
+  <title>Climate action: Can we change the climate from the grassroots up?</title>
+  <link>https://www.dw.com/en/climate-action-can-we-change-the-climate-from-the-grassroots-up/a-49016447?maca=en-rss-en-all-1573-rdf</link>
+  <description>The past couple of years will likely go down in history as the ones when climate change really hit. They could also be remembered as the ones in which people worked to stop it. DW looks at some civil society victories.</description>
+  <dc:date>2019-06-13T12:05:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49016447</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/europe-s-plastic-waste-sent-home-in-toxic-row/a-49157505?maca=en-rss-en-all-1573-rdf">
+  <title>Europe&apos;s plastic waste sent home in toxic row</title>
+  <link>https://www.dw.com/en/europe-s-plastic-waste-sent-home-in-toxic-row/a-49157505?maca=en-rss-en-all-1573-rdf</link>
+  <description>Europe’s sustainability practices are world-leading, but some believe that what has passed as recycling should actually be called liabilityshifting. DW spoke with an American who plans to change all that.</description>
+  <dc:date>2019-06-13T09:56:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49157505</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/natural-high-brazil-s-guarana-growers-ditch-chemicals-for-ancient-knowledge/a-49073771?maca=en-rss-en-all-1573-rdf">
+  <title>Natural high: Brazil&apos;s Guarana growers ditch chemicals for ancient knowledge</title>
+  <link>https://www.dw.com/en/natural-high-brazil-s-guarana-growers-ditch-chemicals-for-ancient-knowledge/a-49073771?maca=en-rss-en-all-1573-rdf</link>
+  <description>For the Guarana growers of the Amazon, the caffeine-rich berries aren&apos;t just a fortifying brew but part of ancient tradition that respects their rainforest home.</description>
+  <dc:date>2019-06-13T08:34:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49073771</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-corinne-diacre-wants-france-focused-not-emotional/a-49168439?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: Corinne Diacre wants France focused not emotional</title>
+  <link>https://www.dw.com/en/women-s-world-cup-corinne-diacre-wants-france-focused-not-emotional/a-49168439?maca=en-rss-en-all-1573-rdf</link>
+  <description>France just about kept their perfect record at the 2019 Women&apos;s World Cup, but Norway made them work for it. France head coach Corinne Diacre has got France winning, but her plan for success is an unusual one.</description>
+  <dc:date>2019-06-12T22:44:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49168439</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-germany-shedding-inexperienced-narrative/a-49168463?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: Germany shedding &apos;inexperienced&apos; narrative</title>
+  <link>https://www.dw.com/en/women-s-world-cup-germany-shedding-inexperienced-narrative/a-49168463?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s back-to-back wins won&apos;t have struck fear in the hearts of tournament favorites, but they have all-but secured a spot in the knockout stages. Their rebuild is showing signs of great promise in its early stages.</description>
+  <dc:date>2019-06-12T21:44:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49168463</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-china-trade-spat-china-s-asian-neighbors-see-record-investments/a-49150979?maca=en-rss-en-all-1573-rdf">
+  <title>US-China trade spat: China&apos;s Asian neighbors see record investments</title>
+  <link>https://www.dw.com/en/us-china-trade-spat-china-s-asian-neighbors-see-record-investments/a-49150979?maca=en-rss-en-all-1573-rdf</link>
+  <description>More and more companies are relocating their factories from China amid trade tensions between Washington and Beijing, a UN report shows. Is China&apos;s &quot;world&apos;s factory&quot; tag under threat as firms seek to avoid US tariffs?</description>
+  <dc:date>2019-06-12T17:03:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49150979</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/bundesliga-eintracht-frankfurt-sign-young-striker/a-48896856?maca=en-rss-en-all-1573-rdf">
+  <title>Bundesliga: Eintracht Frankfurt sign young striker</title>
+  <link>https://www.dw.com/en/bundesliga-eintracht-frankfurt-sign-young-striker/a-48896856?maca=en-rss-en-all-1573-rdf</link>
+  <description>With the season over, the summer transfer window is open! The Eagles have turned to young Serbian talent yet again after the big-money sale of Luka Jovic. Keep up to date with all the major Bundesliga transfers here.</description>
+  <dc:date>2019-06-12T15:02:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48896856</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/opening-of-berlin-s-ambitious-humboldt-forum-museum-project-delayed/a-49155592?maca=en-rss-en-all-1573-rdf">
+  <title>Opening of Berlin&apos;s ambitious Humboldt Forum museum project delayed</title>
+  <link>https://www.dw.com/en/opening-of-berlin-s-ambitious-humboldt-forum-museum-project-delayed/a-49155592?maca=en-rss-en-all-1573-rdf</link>
+  <description>Housed in Berlin&apos;s reconstructed Prussian palace, the Humboldt Forum was planning to open exhibitions this year to mark the 250th birthday of Alexander von Humboldt. But like Berlin&apos;s new airport, everything is on hold.</description>
+  <dc:date>2019-06-12T15:02:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49155592</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/25-years-of-bonn-s-history-museum-postwar-germany-portrayed-through-objects/a-49152232?maca=en-rss-en-all-1573-rdf">
+  <title>25 years of Bonn&apos;s history museum: Postwar Germany portrayed through objects</title>
+  <link>https://www.dw.com/en/25-years-of-bonn-s-history-museum-postwar-germany-portrayed-through-objects/a-49152232?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Haus der Geschichte in Bonn, one of Germany&apos;s most popular museums, opened 25 years ago. Beyond pieces of the Berlin Wall, here&apos;s why a dentist&apos;s chair is among the exhibits of its permanent exhibition.</description>
+  <dc:date>2019-06-12T15:00:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49152232</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/men-against-boys-women-against-girls/a-49150473?maca=en-rss-en-all-1573-rdf">
+  <title>Men against boys, women against girls</title>
+  <link>https://www.dw.com/en/men-against-boys-women-against-girls/a-49150473?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany 8-0 Estonia, USA 13-0 Thailand. Men against boys, women against girls. What do such results tell us about where modern football is going? And is the gap widening between the game&apos;s haves and have-nots?</description>
+  <dc:date>2019-06-12T13:51:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49150473</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/human-powered-ferry-makes-a-difference-for-tourists-and-the-captain/a-49147702?maca=en-rss-en-all-1573-rdf">
+  <title>Human-powered ferry makes a difference for tourists — and the captain</title>
+  <link>https://www.dw.com/en/human-powered-ferry-makes-a-difference-for-tourists-and-the-captain/a-49147702?maca=en-rss-en-all-1573-rdf</link>
+  <description>Maik Slotta is a man you won&apos;t forget. He runs the only remaining manually operated ferry in the German state of Brandenburg, and there&apos;s no one to replace him, as DW&apos;s Hardy Graupner reports from the Spreewald region.</description>
+  <dc:date>2019-06-12T11:29:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49147702</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/rené-pollesch-to-head-berlin-s-iconic-volksbühne/a-49148251?maca=en-rss-en-all-1573-rdf">
+  <title>René Pollesch to head Berlin&apos;s iconic Volksbühne</title>
+  <link>https://www.dw.com/en/rené-pollesch-to-head-berlin-s-iconic-volksbühne/a-49148251?maca=en-rss-en-all-1573-rdf</link>
+  <description>The 56-year-old playwright and director will be the new director of Berlin&apos;s Volksbühne, Culture Senator Klaus Lederer confirmed on Wednesday. It&apos;s hoped that Pollesch will end years of turbulence at the theater.</description>
+  <dc:date>2019-06-12T10:57:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49148251</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/tips-for-apartment-hunting-and-moving-in-germany/a-48968956?maca=en-rss-en-all-1573-rdf">
+  <title>Tips for apartment hunting and moving in Germany</title>
+  <link>https://www.dw.com/en/tips-for-apartment-hunting-and-moving-in-germany/a-48968956?maca=en-rss-en-all-1573-rdf</link>
+  <description>Roughly 8 million Germans move house every year. So what&apos;s it like? DW&apos;s Cristina Burack shares some quirks of finding a new place to live in Germany, and learns that Germans are not afraid to be hands-on in the process.</description>
+  <dc:date>2019-06-12T10:28:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48968956</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/rammstein-singer-till-lindemann-under-investigation-for-assault/a-49148366?maca=en-rss-en-all-1573-rdf">
+  <title>Rammstein singer Till Lindemann under investigation for assault</title>
+  <link>https://www.dw.com/en/rammstein-singer-till-lindemann-under-investigation-for-assault/a-49148366?maca=en-rss-en-all-1573-rdf</link>
+  <description>The heavy metal front man is accused of beating a 54-year-old man from Hamburg in a hotel bar. Witnesses have said that the man was insulting him before the physical altercation began.</description>
+  <dc:date>2019-06-12T10:24:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49148366</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/chernobyl-creator-asks-tourists-to-show-respect-at-disaster-site/a-49146180?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Chernobyl&apos; creator asks tourists to show respect at disaster site</title>
+  <link>https://www.dw.com/en/chernobyl-creator-asks-tourists-to-show-respect-at-disaster-site/a-49146180?maca=en-rss-en-all-1573-rdf</link>
+  <description>Television show maker Craig Mazin reminded visitors to the exclusion zone in Ukraine that &quot;a terrible tragedy occured there.&quot; Tour operators have reported a huge spike in interest after the release of the miniseries.</description>
+  <dc:date>2019-06-12T10:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49146180</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/caught-between-floods-and-drought-farmers-in-nicaragua-living-in-uncertainty/a-49021423?maca=en-rss-en-all-1573-rdf">
+  <title>Caught between floods and drought: Farmers in Nicaragua living in uncertainty</title>
+  <link>https://www.dw.com/en/caught-between-floods-and-drought-farmers-in-nicaragua-living-in-uncertainty/a-49021423?maca=en-rss-en-all-1573-rdf</link>
+  <description>Across the Central American Dry Corridor, communities are facing increasingly extreme weather. In Nicaragua, the region&apos;s poorest country, subsistence farmers like Blanca Landero Betarco face a daily battle.</description>
+  <dc:date>2019-06-12T07:52:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49021423</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/radiohead-makes-stolen-tracks-available-to-help-extinction-rebellion/a-49141432?maca=en-rss-en-all-1573-rdf">
+  <title>Radiohead makes stolen tracks available to help &apos;Extinction Rebellion&apos;</title>
+  <link>https://www.dw.com/en/radiohead-makes-stolen-tracks-available-to-help-extinction-rebellion/a-49141432?maca=en-rss-en-all-1573-rdf</link>
+  <description>The band has reacted in unusual fashion to a ransom notice over 18 hours of hacked material. Rather than pay hackers, the group has put the tracks online and asked fans to donate to Extinction Rebellion.</description>
+  <dc:date>2019-06-11T17:36:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49141432</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/anne-frank-s-incomplete-novel-dear-kitty-published/a-49138442?maca=en-rss-en-all-1573-rdf">
+  <title>Anne Frank&apos;s incomplete novel &apos;Dear Kitty&apos; published</title>
+  <link>https://www.dw.com/en/anne-frank-s-incomplete-novel-dear-kitty-published/a-49138442?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Jewish girl who became posthumously famous with her diary also hoped to publish a novel. The unfinished work of the Holocaust victim — who would have turned 90 on June 12 — has been released in German.</description>
+  <dc:date>2019-06-11T15:25:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49138442</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-s-gay-paragraph-175-abolished-25-years-ago/a-49124549?maca=en-rss-en-all-1573-rdf">
+  <title>Germany&apos;s &apos;gay&apos; Paragraph 175 abolished 25 years ago</title>
+  <link>https://www.dw.com/en/germany-s-gay-paragraph-175-abolished-25-years-ago/a-49124549?maca=en-rss-en-all-1573-rdf</link>
+  <description>When Paragraph 175 of the German Penal Code was abolished 25 years ago, homosexuality ceased to be separately regulated. DW takes a look back at a history of persecution in West and East Germany.</description>
+  <dc:date>2019-06-11T12:21:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49124549</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/stasi-s-pervasive-footprint-across-two-berlins-revealed/a-49135973?maca=en-rss-en-all-1573-rdf">
+  <title>Stasi&apos;s pervasive footprint across two Berlins revealed</title>
+  <link>https://www.dw.com/en/stasi-s-pervasive-footprint-across-two-berlins-revealed/a-49135973?maca=en-rss-en-all-1573-rdf</link>
+  <description>In the former prison where the East German secret police locked up dissidents, a museum has painstakingly mapped the vast web of locations through which the Stasi carried out social control — and planned coups.</description>
+  <dc:date>2019-06-11T12:02:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49135973</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-gay-conversion-therapy-ban-presented/a-49135468?maca=en-rss-en-all-1573-rdf">
+  <title>Germany: Gay conversion &apos;therapy&apos; ban presented</title>
+  <link>https://www.dw.com/en/germany-gay-conversion-therapy-ban-presented/a-49135468?maca=en-rss-en-all-1573-rdf</link>
+  <description>&quot;Homosexuality is not a disease and does not require treatment,&quot; said Health Minister Jens Spahn. In Germany, there are an estimated 1,000 attempts a year to change the sexual orientation of gay people, say critics.</description>
+  <dc:date>2019-06-11T09:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49135468</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/carl-hagenbeck-the-inventor-of-the-modern-animal-park/a-49106027?maca=en-rss-en-all-1573-rdf">
+  <title>Carl Hagenbeck: The inventor of the modern animal park</title>
+  <link>https://www.dw.com/en/carl-hagenbeck-the-inventor-of-the-modern-animal-park/a-49106027?maca=en-rss-en-all-1573-rdf</link>
+  <description>No bars, no high fences: It&apos;s thanks to Carl Hagenbeck that most zoos today look that way. June 10 marks his 175th birthday. But he also had other controversial ideas for his parks: exhibiting humans as well.</description>
+  <dc:date>2019-06-11T06:43:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49106027</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/rapper-kollegah-s-shisha-bar-raided-by-dusseldorf-police/a-49131155?maca=en-rss-en-all-1573-rdf">
+  <title>Rapper Kollegah&apos;s shisha bar raided by Dusseldorf police</title>
+  <link>https://www.dw.com/en/rapper-kollegah-s-shisha-bar-raided-by-dusseldorf-police/a-49131155?maca=en-rss-en-all-1573-rdf</link>
+  <description>A shisha bar owned by German rapper Kollegah has been raided by police one day after it opened. Police said the bar was found to be in violation of tobacco tax law.</description>
+  <dc:date>2019-06-10T21:40:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49131155</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/heiko-maas-in-tehran-why-germany-can-t-concede-too-much-to-iran/a-49128510?maca=en-rss-en-all-1573-rdf">
+  <title>Heiko Maas in Tehran: Why Germany can&apos;t concede too much to Iran</title>
+  <link>https://www.dw.com/en/heiko-maas-in-tehran-why-germany-can-t-concede-too-much-to-iran/a-49128510?maca=en-rss-en-all-1573-rdf</link>
+  <description>German Foreign Minister Heiko Maas has held talks with his Iranian counterpart, Javad Zarif, in Tehran, in a bid to ease tensions in the Persian Gulf. But experts say the visit is unlikely to produce any breakthrough.</description>
+  <dc:date>2019-06-10T14:24:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49128510</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-alex-morgan-s-fight-for-equality-reaches-new-heights/a-49116020?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: Alex Morgan&apos;s fight for equality reaches new heights</title>
+  <link>https://www.dw.com/en/women-s-world-cup-alex-morgan-s-fight-for-equality-reaches-new-heights/a-49116020?maca=en-rss-en-all-1573-rdf</link>
+  <description>Winning this tournament is about more than acquiring another title for world champion and Olympic gold medalist Alex Morgan. A successful World Cup could accelerate her fight for change in women&apos;s football.</description>
+  <dc:date>2019-06-10T08:24:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49116020</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/tintin-artwork-sells-for-1-1-million-at-auction/a-49119124?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;TinTin&apos; artwork sells for $1.1 million at auction</title>
+  <link>https://www.dw.com/en/tintin-artwork-sells-for-1-1-million-at-auction/a-49119124?maca=en-rss-en-all-1573-rdf</link>
+  <description>An original drawing from the first published &quot;Tintin&quot; story, signed by the artist, has been sold at auction in Dallas. The beloved Belgian comic series has been translated into more than 70 languages.</description>
+  <dc:date>2019-06-09T13:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49119124</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-world-cup-china-looks-to-reignite-former-glories/a-49110551?maca=en-rss-en-all-1573-rdf">
+  <title>Women&apos;s World Cup: China looks to reignite former glories</title>
+  <link>https://www.dw.com/en/women-s-world-cup-china-looks-to-reignite-former-glories/a-49110551?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Steel Roses aren&apos;t the force they once were. But with football a key priority for the Chinese government, how far can they go towards meeting the country&apos;s lofty ambitions?</description>
+  <dc:date>2019-06-08T11:42:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49110551</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/feast-for-the-eyes-food-photography-on-show-in-berlin/a-49081683?maca=en-rss-en-all-1573-rdf">
+  <title>Feast for the eyes: Food photography on show in Berlin</title>
+  <link>https://www.dw.com/en/feast-for-the-eyes-food-photography-on-show-in-berlin/a-49081683?maca=en-rss-en-all-1573-rdf</link>
+  <description>Featuring works from Cindy Sherman, Wolfgang Tillmans, Nan Goldin and many more, a new exhibition at C/O Berlin, &quot;Food for the Eyes. The Story of Food in Photography,&quot; celebrates the idea that we are what we eat.</description>
+  <dc:date>2019-06-07T15:25:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49081683</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-s-political-parties-cdu-csu-spd-afd-fdp-left-party-greens-what-you-need-to-know/a-38085900?maca=en-rss-en-all-1573-rdf">
+  <title>Germany&apos;s political parties CDU, CSU, SPD, AfD, FDP, Left party, Greens - what you need to know</title>
+  <link>https://www.dw.com/en/germany-s-political-parties-cdu-csu-spd-afd-fdp-left-party-greens-what-you-need-to-know/a-38085900?maca=en-rss-en-all-1573-rdf</link>
+  <description>Here&apos;s a look at Germany&apos;s political parties, who they are and what they want.</description>
+  <dc:date>2019-06-07T13:37:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>38085900</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/fifa-women-s-world-cup-why-germany-has-a-unique-football-vocabulary/a-44156996?maca=en-rss-en-all-1573-rdf">
+  <title>FIFA Women&apos;s World Cup: Why Germany has a unique football vocabulary</title>
+  <link>https://www.dw.com/en/fifa-women-s-world-cup-why-germany-has-a-unique-football-vocabulary/a-44156996?maca=en-rss-en-all-1573-rdf</link>
+  <description>It doesn&apos;t feel that way now, but Germans weren&apos;t enthusiastic about football in the 19th century. Christoph Marx, a World Cup historian, explains how special terms for soccer were developed to change that.</description>
+  <dc:date>2019-06-07T13:17:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>44156996</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ampaire-test-flies-world-s-biggest-electric-plane/a-49098126?maca=en-rss-en-all-1573-rdf">
+  <title>Ampaire test-flies world&apos;s biggest electric plane</title>
+  <link>https://www.dw.com/en/ampaire-test-flies-world-s-biggest-electric-plane/a-49098126?maca=en-rss-en-all-1573-rdf</link>
+  <description>The American aircraft maker has launched its Ampaire 337, the largest hybrid-electric aircraft ever flown. With commercial use beckoning for 2021, it&apos;s a step in the direction of reducing carbon footprints in the sky.</description>
+  <dc:date>2019-06-07T11:02:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49098126</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/alzheimer-s-and-tooth-brushing-forget-to-brush-today-forget-a-lot-more-later/a-49098131?maca=en-rss-en-all-1573-rdf">
+  <title>Alzheimer&apos;s and tooth brushing: Forget to brush today, forget a lot more later?</title>
+  <link>https://www.dw.com/en/alzheimer-s-and-tooth-brushing-forget-to-brush-today-forget-a-lot-more-later/a-49098131?maca=en-rss-en-all-1573-rdf</link>
+  <description>You may be able to fool your partner with a mint and some mouthwash (please stop doing that, though, it&apos;s gross), but your rancid tooth brushing habits could catch up with you later in life.</description>
+  <dc:date>2019-06-07T10:48:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49098131</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-the-moers-festival-became-a-celebration-of-avant-garde-change/a-49089427?maca=en-rss-en-all-1573-rdf">
+  <title>How the Moers Festival became a celebration of avant-garde change</title>
+  <link>https://www.dw.com/en/how-the-moers-festival-became-a-celebration-of-avant-garde-change/a-49089427?maca=en-rss-en-all-1573-rdf</link>
+  <description>The organizers and musicians of the renowned Moers Festival are committed to promoting and exploring new soundscapes. Here&apos;s how the avant-garde music festival in the small town became legendary.</description>
+  <dc:date>2019-06-07T10:09:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49089427</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ricin-attack-plot-trial-starts-for-tunisian-german-couple/a-49097871?maca=en-rss-en-all-1573-rdf">
+  <title>Ricin attack plot trial starts for Tunisian-German couple</title>
+  <link>https://www.dw.com/en/ricin-attack-plot-trial-starts-for-tunisian-german-couple/a-49097871?maca=en-rss-en-all-1573-rdf</link>
+  <description>The accused couple, &quot;Islamic State&quot; followers, have been charged with preparing a terrorist attack with a poison 6,000 times more lethal than cyanide. They aimed to &quot;kill and wound the largest possible number of people.&quot;</description>
+  <dc:date>2019-06-07T09:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49097871</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cartoons-for-future-artists-react-to-the-climate-crisis/a-49081408?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Cartoons for Future&apos;: Artists react to the climate crisis</title>
+  <link>https://www.dw.com/en/cartoons-for-future-artists-react-to-the-climate-crisis/a-49081408?maca=en-rss-en-all-1573-rdf</link>
+  <description>Building on the &quot;Fridays for Future&quot; demonstrations, an exhibition in Dortmund shows 100 cartoons by international artists commenting on the climate emergency.</description>
+  <dc:date>2019-06-07T09:40:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49081408</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-s-new-refugee-labor-laws-slammed-as-lacking-common-sense/a-49095320?maca=en-rss-en-all-1573-rdf">
+  <title>Germany&apos;s new refugee labor laws slammed as lacking common sense</title>
+  <link>https://www.dw.com/en/germany-s-new-refugee-labor-laws-slammed-as-lacking-common-sense/a-49095320?maca=en-rss-en-all-1573-rdf</link>
+  <description>German lawmakers passed a bundle of measures to make it easier to integrate migrants, as well as to deport rejected asylum-seekers. Experts say the laws not only send a mixed signal but also may even be unconstitutional.</description>
+  <dc:date>2019-06-07T09:26:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49095320</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/lea-schüller-the-goals-to-lead-germany-to-glory/a-49097113?maca=en-rss-en-all-1573-rdf">
+  <title>Lea Schüller: The goals to lead Germany to glory</title>
+  <link>https://www.dw.com/en/lea-schüller-the-goals-to-lead-germany-to-glory/a-49097113?maca=en-rss-en-all-1573-rdf</link>
+  <description>Easygoing and dangerous in front of goal: the young striker is the new hope for Germany ahead of the Women&apos;s World Cup in France. Can her goals lead Germany to the title in France this summer?</description>
+  <dc:date>2019-06-07T09:11:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49097113</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/central-bank-slashes-german-growth-predictions/a-49097372?maca=en-rss-en-all-1573-rdf">
+  <title>Central bank slashes German growth predictions</title>
+  <link>https://www.dw.com/en/central-bank-slashes-german-growth-predictions/a-49097372?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s Bundesbank has cut its projections for economic growth in 2019, citing &quot;lackluster&quot; exports. It said both growth and the inflation rate in the eurozone&apos;s biggest economy were currently facing risks.</description>
+  <dc:date>2019-06-07T08:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49097372</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/kids-in-germany-to-name-exoplanet-star/a-49096445?maca=en-rss-en-all-1573-rdf">
+  <title>Kids in Germany to name exoplanet, star</title>
+  <link>https://www.dw.com/en/kids-in-germany-to-name-exoplanet-star/a-49096445?maca=en-rss-en-all-1573-rdf</link>
+  <description>German schools, kindergartens and amateur astronomers have been asked to come up with names for two heavenly bodies. The huge exoplanet and its star currently go by the unpoetical catalog numbers HD 32518 and HD 32518b.</description>
+  <dc:date>2019-06-07T07:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49096445</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-s-greens-hit-poll-high-ahead-of-merkel-s-bloc-survey/a-49094285?maca=en-rss-en-all-1573-rdf">
+  <title>Germany&apos;s Greens hit poll high, ahead of Merkel&apos;s bloc: survey</title>
+  <link>https://www.dw.com/en/germany-s-greens-hit-poll-high-ahead-of-merkel-s-bloc-survey/a-49094285?maca=en-rss-en-all-1573-rdf</link>
+  <description>The opposition Greens have hit a record high in a new opinion poll, pulling ahead of Angela Merkel&apos;s conservatives. The center-left SPD have dropped even further, slipping behind the far-right Alternative for Germany.</description>
+  <dc:date>2019-06-06T21:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49094285</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/first-mayor-from-former-east-heads-german-cities-association/a-49092990?maca=en-rss-en-all-1573-rdf">
+  <title>First mayor from former East heads German Cities Association</title>
+  <link>https://www.dw.com/en/first-mayor-from-former-east-heads-german-cities-association/a-49092990?maca=en-rss-en-all-1573-rdf</link>
+  <description>Progressive Leipzig Mayor Burkhard Jung has become the first local politician from the former East to lead Germany&apos;s municipalities. His election precedes polls in three eastern states likely to swing to the far-right.</description>
+  <dc:date>2019-06-06T18:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49092990</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/east-german-civil-rights-activists-praised-in-bundestag-30-years-on/a-49083639?maca=en-rss-en-all-1573-rdf">
+  <title>East German civil rights activists praised in Bundestag 30 years on</title>
+  <link>https://www.dw.com/en/east-german-civil-rights-activists-praised-in-bundestag-30-years-on/a-49083639?maca=en-rss-en-all-1573-rdf</link>
+  <description>The German parliament praised civil rights groups and the church for their roles in bringing about a peaceful revolution 30 years ago in former East Germany. A memorial to the victims of communism is being planned.</description>
+  <dc:date>2019-06-06T12:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49083639</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/european-drug-report-2019-directly-contrasts-us-drug-crisis-tells-a-story-of-relative-calm/a-49072315?maca=en-rss-en-all-1573-rdf">
+  <title>European Drug Report 2019 directly contrasts US drug crisis, tells a story of relative calm</title>
+  <link>https://www.dw.com/en/european-drug-report-2019-directly-contrasts-us-drug-crisis-tells-a-story-of-relative-calm/a-49072315?maca=en-rss-en-all-1573-rdf</link>
+  <description>Around 8,200 people died of an overdose in Europe in 2018, according to the European Drug Report. That&apos;s almost 10 times less than the number of overdose deaths in the United States.</description>
+  <dc:date>2019-06-06T09:46:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49072315</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/luciano-pavarotti-larger-than-life-opera-singer-celebrated-in-documentary/a-49068717?maca=en-rss-en-all-1573-rdf">
+  <title>Luciano Pavarotti: Larger-than-life opera singer celebrated in documentary</title>
+  <link>https://www.dw.com/en/luciano-pavarotti-larger-than-life-opera-singer-celebrated-in-documentary/a-49068717?maca=en-rss-en-all-1573-rdf</link>
+  <description>Oscar-winning director Ron Howard revisits the legendary tenor in his new documentary, &quot;Pavarotti.&quot; From his beginnings to his record-breaking Three Tenors albums, here&apos;s a look at the major stations of his career.</description>
+  <dc:date>2019-06-06T08:13:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49068717</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-killer-nurse-sentenced-to-life-for-murdering-patients/a-49058531?maca=en-rss-en-all-1573-rdf">
+  <title>German killer nurse sentenced to life for murdering patients</title>
+  <link>https://www.dw.com/en/german-killer-nurse-sentenced-to-life-for-murdering-patients/a-49058531?maca=en-rss-en-all-1573-rdf</link>
+  <description>Former nurse Niels Högel has been sentenced to life imprisonment for the murder of 85 more people while on duty in German hospitals until 2005. He is Germany&apos;s worst peacetime serial killer.</description>
+  <dc:date>2019-06-06T08:10:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49058531</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nestle-video-leads-to-lobbying-accusations-against-german-minister/a-49078899?maca=en-rss-en-all-1573-rdf">
+  <title>Nestle video leads to lobbying accusations against German minister</title>
+  <link>https://www.dw.com/en/nestle-video-leads-to-lobbying-accusations-against-german-minister/a-49078899?maca=en-rss-en-all-1573-rdf</link>
+  <description>Julia Klöckner appeared in a video praising Nestle for cutting sugar and fat in its products. Many criticized her for what they called a &quot;PR stunt&quot; and not confronting the firm over its environmental record.</description>
+  <dc:date>2019-06-06T07:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49078899</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/berlin-takes-a-new-approach-to-the-three-seas-initiative/a-49076663?maca=en-rss-en-all-1573-rdf">
+  <title>Berlin takes a new approach to the Three Seas Initiative</title>
+  <link>https://www.dw.com/en/berlin-takes-a-new-approach-to-the-three-seas-initiative/a-49076663?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany is begun to show support for the eastern European initiative. President Steinmeier is traveling to Ljubljana to meet with the group, as the region has come into the geopolitical focus of major powers.</description>
+  <dc:date>2019-06-05T19:37:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49076663</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/sandcastle-in-germany-sets-new-world-record/a-49076721?maca=en-rss-en-all-1573-rdf">
+  <title>Sandcastle in Germany sets new world record</title>
+  <link>https://www.dw.com/en/sandcastle-in-germany-sets-new-world-record/a-49076721?maca=en-rss-en-all-1573-rdf</link>
+  <description>An international team of artists succeeded in building a sandcastle that is almost a meter higher than the previous record holder. The triumph came two years after a similar attempt to break the record ended in tragedy.</description>
+  <dc:date>2019-06-05T18:14:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49076721</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-war-widows-protecting-sri-lanka-s-mangroves/a-48735864?maca=en-rss-en-all-1573-rdf">
+  <title>The war widows protecting Sri Lanka&apos;s mangroves</title>
+  <link>https://www.dw.com/en/the-war-widows-protecting-sri-lanka-s-mangroves/a-48735864?maca=en-rss-en-all-1573-rdf</link>
+  <description>Sri Lankan women who lost husbands in the country&apos;s 25-year conflict are now protecting the country&apos;s mangroves — and combating gender stereotypes in the process.</description>
+  <dc:date>2019-06-05T09:32:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48735864</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/by-inventing-family-of-holocaust-victims-blogger-avoided-collective-responsibility/a-49062218?maca=en-rss-en-all-1573-rdf">
+  <title>By inventing family of Holocaust victims, blogger avoided &apos;collective responsibility&apos;</title>
+  <link>https://www.dw.com/en/by-inventing-family-of-holocaust-victims-blogger-avoided-collective-responsibility/a-49062218?maca=en-rss-en-all-1573-rdf</link>
+  <description>German blogger Marie Sophie Hingst invented a Jewish family history. DW asked historian Micha Brumlik about possible motivations: Her urge to be a victim might have been more appealing than facing up to responsibility.</description>
+  <dc:date>2019-06-05T09:04:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49062218</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-killing-of-kassel-district-president-leaves-locals-aghast/a-49060746?maca=en-rss-en-all-1573-rdf">
+  <title>Germany: Killing of Kassel district president leaves locals aghast</title>
+  <link>https://www.dw.com/en/germany-killing-of-kassel-district-president-leaves-locals-aghast/a-49060746?maca=en-rss-en-all-1573-rdf</link>
+  <description>Walter Lübcke&apos;s neighbors and co-workers can&apos;t make sense of his death from a gunshot wound in a village on the outskirts of Kassel, in central Germany. They hope detectives solve the crime soon.</description>
+  <dc:date>2019-06-05T01:12:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49060746</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ebola-cases-in-dr-congo-top-2-000/a-49060502?maca=en-rss-en-all-1573-rdf">
+  <title>Ebola cases in DR Congo top 2,000</title>
+  <link>https://www.dw.com/en/ebola-cases-in-dr-congo-top-2-000/a-49060502?maca=en-rss-en-all-1573-rdf</link>
+  <description>The daily number of new Ebola cases has tripled in recent months, according to aid organizations. Local distrust and armed groups have hampered a response to the world&apos;s second-largest Ebola epidemic.</description>
+  <dc:date>2019-06-04T23:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49060502</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-doctors-want-human-egg-donations-to-be-legalized/a-49057057?maca=en-rss-en-all-1573-rdf">
+  <title>German doctors want human egg donations to be legalized</title>
+  <link>https://www.dw.com/en/german-doctors-want-human-egg-donations-to-be-legalized/a-49057057?maca=en-rss-en-all-1573-rdf</link>
+  <description>A group of doctors in Germany is calling for new reproductive health laws. They say the current legislation is outdated, as the science has moved on. They want human egg donations to be legalized and to make IVF safer.</description>
+  <dc:date>2019-06-04T16:02:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49057057</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/italy-taranto-residents-rise-up-to-stop-air-pollution-claiming-local-lives/a-49050350?maca=en-rss-en-all-1573-rdf">
+  <title>Italy: Taranto residents rise up to stop air pollution claiming local lives</title>
+  <link>https://www.dw.com/en/italy-taranto-residents-rise-up-to-stop-air-pollution-claiming-local-lives/a-49050350?maca=en-rss-en-all-1573-rdf</link>
+  <description>Parents in the southern Italian city of Taranto are taking on the Arcelor Mittal Italia steelworks they say is polluting the air and killing their children.</description>
+  <dc:date>2019-06-04T14:39:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49050350</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-bond-yields-at-record-lows-amid-recession-fears/a-49052944?maca=en-rss-en-all-1573-rdf">
+  <title>German bond yields at record lows amid recession fears</title>
+  <link>https://www.dw.com/en/german-bond-yields-at-record-lows-amid-recession-fears/a-49052944?maca=en-rss-en-all-1573-rdf</link>
+  <description>Growing concerns of a protracted trade conflict are forcing investors to take refuge in the safe haven asset despite negative returns. Is the global economy staring at a recession?</description>
+  <dc:date>2019-06-04T14:24:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49052944</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mexicans-turn-to-ancient-aztec-floating-gardens-to-revive-mangrove-forests/a-48939312?maca=en-rss-en-all-1573-rdf">
+  <title>Mexicans turn to ancient Aztec floating gardens to revive mangrove forests</title>
+  <link>https://www.dw.com/en/mexicans-turn-to-ancient-aztec-floating-gardens-to-revive-mangrove-forests/a-48939312?maca=en-rss-en-all-1573-rdf</link>
+  <description>In Mexico City, old Aztec floating gardens are still used to grow food. Now, environmentalists think this ancient technology could help restore a coastal ecosystem — and help fishermen in the process.</description>
+  <dc:date>2019-06-04T08:11:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48939312</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/swedes-switch-to-trains-due-to-global-warming/a-49033136?maca=en-rss-en-all-1573-rdf">
+  <title>Swedes switch to trains due to global warming</title>
+  <link>https://www.dw.com/en/swedes-switch-to-trains-due-to-global-warming/a-49033136?maca=en-rss-en-all-1573-rdf</link>
+  <description>Swedes seem to be following climate activist Greta Thunberg&apos;s example in shunning air travel. The percentage that opted to take a train rather than fly has doubled in a year and a half. Flight shame may be at work.</description>
+  <dc:date>2019-06-03T19:49:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>49033136</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/forbidden-fruit-the-curious-early-history-of-apples/a-48967024?maca=en-rss-en-all-1573-rdf">
+  <title>Forbidden fruit: The curious early history of apples</title>
+  <link>https://www.dw.com/en/forbidden-fruit-the-curious-early-history-of-apples/a-48967024?maca=en-rss-en-all-1573-rdf</link>
+  <description>As mundane as the apple may seem, its history involves enormous animals, the Ice Age, the Silk Road and a huge role in the stories we tell.</description>
+  <dc:date>2019-05-31T14:13:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48967024</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/artificial-intelligence-creates-perfumes-without-being-able-to-smell-them/a-48989202?maca=en-rss-en-all-1573-rdf">
+  <title>Artificial intelligence creates perfumes without being able to smell them</title>
+  <link>https://www.dw.com/en/artificial-intelligence-creates-perfumes-without-being-able-to-smell-them/a-48989202?maca=en-rss-en-all-1573-rdf</link>
+  <description>Noses are overrated: In June, a perfume created by a computer system will be launched on the Brazilian market. The artificial intelligence involved combined ingredients in a manner unthinkable to most humans.</description>
+  <dc:date>2019-05-31T12:17:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48989202</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/smoking-or-vaping-e-cigarettes-as-a-lesser-evil/a-48858120?maca=en-rss-en-all-1573-rdf">
+  <title>Smoking or vaping: e-cigarettes as a lesser evil</title>
+  <link>https://www.dw.com/en/smoking-or-vaping-e-cigarettes-as-a-lesser-evil/a-48858120?maca=en-rss-en-all-1573-rdf</link>
+  <description>Smoking&apos;s out, steaming&apos;s in. Both are indisputably unhealthy, but is one better than the other? Supporters of smoke alternatives say they aren&apos;t as bad as traditional tobacco cigarettes. But is there any truth in that?</description>
+  <dc:date>2019-05-31T09:43:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48858120</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/restoring-forests-in-mali-tree-stumps-could-be-the-solution-to-disappearing-woodlands/a-48820530?maca=en-rss-en-all-1573-rdf">
+  <title>Restoring forests in Mali: Tree stumps could be the solution to disappearing woodlands</title>
+  <link>https://www.dw.com/en/restoring-forests-in-mali-tree-stumps-could-be-the-solution-to-disappearing-woodlands/a-48820530?maca=en-rss-en-all-1573-rdf</link>
+  <description>As people fell trees to get wood for cooking, Mali&apos;s trees are disappearing at rapid speed. A reforestation expert who has been dubbed &apos;the forest maker&apos; is working with farmers to restore the country&apos;s woodlands.</description>
+  <dc:date>2019-05-29T09:35:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48820530</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/government-must-involve-residents-in-cleanup-of-nairobi-rivers/a-48862536?maca=en-rss-en-all-1573-rdf">
+  <title>Government must involve residents in cleanup of Nairobi rivers</title>
+  <link>https://www.dw.com/en/government-must-involve-residents-in-cleanup-of-nairobi-rivers/a-48862536?maca=en-rss-en-all-1573-rdf</link>
+  <description>In Kenya, local residents need to be involved in the restoration of the Nairobi River basin says guest commentator Sam Dindi, the co-founder of &apos;Mazingira yetu&apos; magazine. It&apos;s the only way for a healthy future.</description>
+  <dc:date>2019-05-29T07:19:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48862536</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/kenya-s-herders-adapt-to-drought-with-new-land-management-deals/a-48757247?maca=en-rss-en-all-1573-rdf">
+  <title>Kenya&apos;s herders adapt to drought with new land management deals</title>
+  <link>https://www.dw.com/en/kenya-s-herders-adapt-to-drought-with-new-land-management-deals/a-48757247?maca=en-rss-en-all-1573-rdf</link>
+  <description>Droughts have left herders in Laikipia desperate to find pasture for their cattle, and brought them into conflict with landowners. But better land management is showing that these pastoralist communities can adapt.</description>
+  <dc:date>2019-05-28T09:06:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48757247</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/oil-giants-face-shareholder-pressure-on-climate-emissions-greenhouse-gas-targets/a-48802418?maca=en-rss-en-all-1573-rdf">
+  <title>Oil giants face shareholder pressure on climate emissions, greenhouse gas targets</title>
+  <link>https://www.dw.com/en/oil-giants-face-shareholder-pressure-on-climate-emissions-greenhouse-gas-targets/a-48802418?maca=en-rss-en-all-1573-rdf</link>
+  <description>Major oil company investors are starting to use their voting rights to speak out against a lack of climate action. Shareholders in Shell and Equinor have already had their say, now BP is in the spotlight.</description>
+  <dc:date>2019-05-20T11:07:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48802418</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/defending-against-floods-in-bosnia-and-herzegovina/a-48720666?maca=en-rss-en-all-1573-rdf">
+  <title>Defending against floods in Bosnia and Herzegovina</title>
+  <link>https://www.dw.com/en/defending-against-floods-in-bosnia-and-herzegovina/a-48720666?maca=en-rss-en-all-1573-rdf</link>
+  <description>Five years ago, flooding in the Vrbas River Basin devastated Bosnia and Herzegovina. As climate change makes such extreme weather ever-more likely, the small country is making sure it&apos;s better prepared.</description>
+  <dc:date>2019-05-17T08:44:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>48720666</dwsyn:contentID>
+ </item>
+</rdf:RDF>
